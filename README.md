@@ -1,7 +1,7 @@
 # Diabetes Prediction using Machine Learning
 
 ## Course
-CSCI3234 – School of IT and Engineering
+CSCI3234 –ML
 
 ## Author
 Md Sha Niamatullah
